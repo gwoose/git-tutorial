@@ -1,3 +1,4 @@
 #git tutorials document:
  - Feature-A
- - feature-B
+ - Feature-A
+ - feature-C
